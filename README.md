@@ -4,6 +4,7 @@
 ![](https://github.com/Macr0phag3/my-iterm-zsh/blob/master/qlook.png?raw=true)
 
 ## Feature
+- remove `at {box_name}` in the bar. Simple is pretty.
 - When the previous statement returns an error, the prompt(`»`) changes from green to red.
 - When in root mode(`sudo -s`), the prompt(`»`) changes from green to yellow.
 
