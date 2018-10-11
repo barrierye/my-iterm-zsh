@@ -1,4 +1,4 @@
-## my theme for Oh My ZSH and iTerm by myself
+## my theme for Oh My ZSH and iTerm
 **forked from oskarkrawczyk/honukai-iterm-zsh**
 
 ![](https://raw.githubusercontent.com/Macr0phag3/my-iterm/master/quick_look.png)
