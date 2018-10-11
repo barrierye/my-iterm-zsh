@@ -1,7 +1,7 @@
 ## My theme for Oh My ZSH and iTerm
 **forked from oskarkrawczyk/honukai-iterm-zsh**
 
-![](https://github.com/Macr0phag3/my-iterm-zsh/blob/master/quick_look.png?raw=true)
+![](https://github.com/Macr0phag3/my-iterm-zsh/blob/master/qlook.png?raw=true)
 
 ## Feature
 - When the previous statement returns an error, the prompt(`»`) changes from green to red.
