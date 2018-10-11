@@ -15,7 +15,7 @@
 
 ## Colors
 1. Open Preferences pane on the Profiles tab in iTerm
-2. Switch to the Colors tab and import the honukai.itermcolors (drop-down in the lower right corner)
+2. Switch to the Colors tab and import the [honukai.itermcolors](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.itermcolors) (drop-down in the lower right corner)
 
 **NOTE**: You'll need at least iTerm2.9-nightly (aka 3.0)
 
